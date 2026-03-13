@@ -5,4 +5,5 @@ def check(n):
                 return True
     return False
 
+
 print(check(50))
